@@ -1,2 +1,1 @@
-# jfs-share-price
-It shows share price of jfs.
+SWOT analysis of JFS
